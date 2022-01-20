@@ -25,6 +25,10 @@ Then, these scripts will used these covariance matrices to generate the spectrum
 
 3) Finally, we compare the original MIST method to our propose aperture-spectrum-based method for separating the mainlobe and sidelobe contributions to the ultrasound image ([compareReconstructedImages.m](compareReconstructedImages.m) and [compareReconstructedImages.py](compareReconstructedImages.py)). **For these specific scripts, please download the sample data (FieldII_ChannelData.mat) under the [releases](https://github.com/rehmanali1994/MainlobeSidelobeSeparation/releases) tab for this repository, and place that data in the main directory ([MainlobeSidelobeSeparation](https://github.com/rehmanali1994/MainlobeSidelobeSeparation)).**
 
+<p align="center">
+<img width="70%" height="70%" src=compareReconstructedImages.png>
+</p>
+
 # Citing this Work
 If you use the code/algorithm for research, please cite the SPIE conference proceedings paper: 
 
