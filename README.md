@@ -17,6 +17,10 @@ If you use the code/algorithm for research, please cite the SPIE conference proc
 
 > Ali, R., Dahl, J. "Separation of Mainlobe and Sidelobe Contributions to B-Mode Ultrasound Images Based on the Aperture Spectrum". *Manuscript in preparation for SPIE Medical Imaging conference.*
 
+Also please cite the prior work on multicovariate imaging of subresolution targets (MIST):
+
+> Morgan, M., Trahey, G., Walker, W. "Multi-covariate imaging of sub-resolution targets." *IEEE transactions on medical imaging* 38.7 (2019): 1690-1700.
+
 You can reference a static version of this code by its DOI number: [![DOI](https://zenodo.org/badge/369032499.svg)](https://zenodo.org/badge/latestdoi/369032499)
 
 # Schematic of the Imaging System
