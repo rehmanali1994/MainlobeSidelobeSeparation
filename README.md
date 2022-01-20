@@ -16,13 +16,13 @@ The underlying focusing function and covariance matrix model for MIST is impleme
 2) The aforementioned spatial correlation functions are used to model the spatial covariance of received signals as well as the FFT of signals across the receive aperture ([modelApertureSpectrum.m](modelApertureSpectrum.m) and [modelApertureSpectrum.py](modelApertureSpectrum.py)). These scripts will first generate the spatial covariance matrices for the mainlobe, sidelobe, and incoherent noise contributions to the the ultrasound image as used in MIST:
 
 <p align="center">
-<img width="70%" height="70%" src=covarianceMatrices.png>
+<img width="70%" height="100%" src=covarianceMatrices.png>
 </p>
 
 Then, these scripts will used these covariance matrices to generate the spectrum of received signals (FFT taken across the receive aperture): 
 
 <p align="center">
-<img width="70%" height="70%" src=modelApertureSpectrum.png>
+<img width="70%" height="90%" src=modelApertureSpectrum.png>
 </p>
 
 3) Finally, we compare the original MIST method to our propose aperture-spectrum-based method for separating the mainlobe and sidelobe contributions to the ultrasound image ([compareReconstructedImages.m](compareReconstructedImages.m) and [compareReconstructedImages.py](compareReconstructedImages.py)). **Please download the sample data (FieldII_ChannelData.mat) under the [releases](https://github.com/rehmanali1994/MainlobeSidelobeSeparation/releases) tab for this repository, and place that data in the main directory ([MainlobeSidelobeSeparation](https://github.com/rehmanali1994/MainlobeSidelobeSeparation)).**
