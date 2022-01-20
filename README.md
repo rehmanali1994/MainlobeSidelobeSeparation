@@ -9,6 +9,9 @@ The underlying focusing function and covariance matrix model for MIST is impleme
 1) The van-Cittert Zernike theorem is used to obtain the spatial correlation between receiver signals as a function of lag (or receive element offset) in a diffuse scattering medium for the entire point spread function (PSF), the mainlobe components of the PSF, and the sidelobe components of the PSF ([theoryBehindMIST.m](theoryBehindMIST.m) and [theoryBehindMIST.py](theoryBehindMIST.py)). As suggested by the name of these scripts, these models for the spatial correlation functions of mainlobes and sidelobes in the ultrasound image lay the foundation behind multi-covariate imaging of subresolution targets (MIST). See the prior work on multicovariate imaging of subresolution targets (MIST):
 > Morgan, M., Trahey, G., Walker, W. "Multi-covariate imaging of sub-resolution targets." *IEEE transactions on medical imaging* 38.7 (2019): 1690-1700.
 
+<p align="center">
+<img width="70%" height="70%" src=theoryBehindMIST.png>
+</p>
 
 2) The aforementioned spatial correlation functions are used to model the spatial covariance of received signals as well as the FFT of signals across the receive aperture ([modelApertureSpectrum.m](modelApertureSpectrum.m) and [modelApertureSpectrum.py](modelApertureSpectrum.py)). These scripts will first generate the spatial covariance matrices for the mainlobe, sidelobe, and incoherent noise contributions to the the ultrasound image as used in MIST:
 
