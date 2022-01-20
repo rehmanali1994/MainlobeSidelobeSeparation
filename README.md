@@ -2,7 +2,7 @@
 Separation of Mainlobes and Sidelobes in the Ultrasound Image Based on the Covariance (MIST) and Aperture-Domain Spectrum of Received Signals
 
 See the prior work on multicovariate imaging of subresolution targets (MIST):
-> Morgan, M., Trahey, G., Walker, W. "Multi-covariate imaging of sub-resolution targets." IEEE transactions on medical imaging 38.7 (2019): 1690-1700.
+> Morgan, M., Trahey, G., Walker, W. "Multi-covariate imaging of sub-resolution targets." *IEEE transactions on medical imaging* 38.7 (2019): 1690-1700.
 
 # Code and Sample Datasets
 The underlying focusing function and covariance matrix model for MIS implemented in both MATLAB ([Functions](Functions)) and Python ([Functions.py](Functions.py)). The following example scripts/tutorials are provided:
