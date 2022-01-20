@@ -1,5 +1,5 @@
 # MainlobeSidelobeSeparation
-Separation of Mainlobes and Sidelobes in the Ultrasound Image Based on the Covariance (MIST) and Aperture-Domain Spectrum of Received Signals
+Separation of Mainlobes and Sidelobes in the Ultrasound Image Based on the Spatial Covariance (MIST) and Aperture-Domain Spectrum of Received Signals
 
 # Code, Results, and Sample Datasets
 The underlying focusing function and covariance matrix model for MIST is implemented in both MATLAB ([Functions](Functions)) and Python ([Functions.py](Functions.py)). The following example scripts/tutorials are provided:
