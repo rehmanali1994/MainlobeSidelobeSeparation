@@ -34,4 +34,4 @@ If you use the code/algorithm for research, please cite the SPIE conference proc
 
 > Ali, R., Dahl, J. "Separation of Mainlobe and Sidelobe Contributions to B-Mode Ultrasound Images Based on the Aperture Spectrum". *Manuscript in preparation for SPIE Medical Imaging conference.*
 
-You can reference a static version of this code by its DOI number: [![DOI](https://zenodo.org/badge/369032499.svg)](https://zenodo.org/badge/latestdoi/369032499)
+You can reference a static version of this code by its DOI number: [![DOI](https://zenodo.org/badge/449910520.svg)](https://zenodo.org/badge/latestdoi/449910520)
