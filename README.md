@@ -17,7 +17,7 @@ The underlying focusing function and covariance matrix model for MIST is impleme
 <img width="100%" height="100%" src=covarianceMatrices.png>
 </p>
 
-Then, these scripts will used these covariance matrices to generate the spectrum of received signals (FFT taken across the receive aperture): 
+Then, these scripts will use these covariance matrices to generate the spectrum of received signals (FFT taken across the receive aperture): 
 
 <p align="center">
 <img width="90%" height="90%" src=modelApertureSpectrum.png>
