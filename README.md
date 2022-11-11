@@ -30,8 +30,8 @@ Then, these scripts will use these covariance matrices to generate the spectrum 
 </p>
 
 # Citing this Work
-If you use the code/algorithm for research, please cite the SPIE conference proceedings paper: 
+If you use the code/algorithm for research, please cite the following full-length paper: 
 
-> Ali, R. "Separation of Mainlobe and Sidelobe Contributions to B-Mode Ultrasound Images Based on the Aperture Spectrum". Medical Imaging 2022: Ultrasonic Imaging and Tomography. Vol. 12038. SPIE, 2022.
+> Rehman Ali, Trevor Mitcham, Leandra Brickson, Wentao Hu, Marvin Doyley, Deborah Rubens, Zeljko Ignjatovic, Nebojsa Duric, and Jeremy Dahl "Separation of mainlobe and sidelobe contributions to B-mode ultrasound images based on the aperture spectrum," Journal of Medical Imaging 9(6), 067001 (1 November 2022). https://doi.org/10.1117/1.JMI.9.6.067001
 
 You can reference a static version of this code by its DOI number: [![DOI](https://zenodo.org/badge/449910520.svg)](https://zenodo.org/badge/latestdoi/449910520)
